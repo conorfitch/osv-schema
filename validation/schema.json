@@ -413,6 +413,9 @@
           },
           "score": {
             "type": "string"
+          },
+          "source": {
+            "type": "string"
           }
         },
         "allOf": [
